@@ -1,0 +1,1 @@
+javascript:(function(){document.body.innerHTML=document.body.innerHTML.replace(/。/g, '♡'); document.body.innerHTML=document.body.innerHTML.replace(/、/g, '♡'); })()
